@@ -1,0 +1,4 @@
+username,genre,showCountInGenre
+hawkeye22,Telenovela,1
+ironspider,Mystery,0
+tonyspark,Action,0
